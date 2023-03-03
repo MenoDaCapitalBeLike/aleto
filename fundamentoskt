@@ -1,0 +1,62 @@
+/*r classificado = "real madrid
+
+if(classificado== "real madrid"){
+    println("real madrid classificado para a final, Hala madrid!!")
+}else{
+    println("barcelona classificada para a final")
+}
+}
+*/
+// if (condição){
+// ação
+// }else if(condição){
+// ação
+// }
+// }else if(condição){
+// ação
+// }
+/*
+fun main(){
+     var vidas =5
+    if(vidas >= 5){
+        println("Você está excelente!! QUE VIDA BOA!")
+    }else if(vidas == 4){
+        println("ajeita a postura desgraça")
+    }else if(vidas == 3){
+        println("e os exames de cancer no pulmão??")
+    }else if(vidas == 2){
+        println("cancer anal tbm vei!!")
+    }else if(vidas == 1){
+        println("corto uma das bolas kkkkkkkkk")
+    }else{
+        println("you died mother fuck")
+    }
+}
+*/
+/*
+var dois = 2
+var cinco = 5
+fun main(){
+    if(dois >= cinco){
+        println("dois > cinco")
+    }else if(cinco > dois){
+        println("cinco > dois")
+    }
+}
+*/
+
+
+
+fun main(){
+    
+    var n2 = -2
+    
+	if(n2>0){
+        println("n2 é positivo"){
+            else{
+                println("n2 é negativo")
+            }
+        }
+    }
+    
+}
